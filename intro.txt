@@ -1,2 +1,6 @@
 Intro file 
 Hyper v is Microsoft powered  virtual Machine
+Supported version
+Windows 10 pro
+Windows 11 pro
+Minimum 4 Gb ram
