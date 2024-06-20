@@ -1,5 +1,6 @@
 Intro file 
 Hyper v is Microsoft powered  virtual Machine
+-----------------------------------------------------------------------
 Supported version
 Windows 10 pro
 Windows 11 pro
@@ -9,3 +10,10 @@ Switches
 4 switches 
 
 Internal ,private ,External default
+---------------------------------------------------------------------------
+Details
+
+Internal - No Internet , connect with Host
+private  -No Internet  ,No connection with host
+External -connected in the Host network
+Default  -connected via virtual network with host
